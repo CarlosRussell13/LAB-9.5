@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Have a good day.
+          Have a good day
         </a>
       </header>
     </div>
